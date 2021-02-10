@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1612801545 source:c:\users\render\desktop\usinezombie\main.cpp
+	<iostream>
+
+1612956811 source:c:\users\render\desktop\usinezombie-main\usinezombie\main.cpp
+	<iostream>
+	<time.h>
+	"Zombie.h"
+	"Bomber.h"
+
+1612956705 source:c:\users\render\desktop\usinezombie-main\usinezombie\src\zombie.cpp
+	"Zombie.h"
+
+1612892963 c:\users\render\desktop\usinezombie-main\usinezombie\include\zombie.h
+	<string>
+	<iostream>
+	<random>
+
+1612954667 c:\users\render\desktop\usinezombie-main\usinezombie\include\bomber.h
+	"zombie.h"
+	<string>
+	<iostream>
+	<random>
+
